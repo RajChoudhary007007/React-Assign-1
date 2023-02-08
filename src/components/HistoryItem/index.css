@@ -1,0 +1,41 @@
+.history-container {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  width: 100%;
+  background-color: #f8fafc;
+  margin-top: 15px;
+}
+.history-home-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.history-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.history-heading {
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: 500;
+  color: #64748b;
+  padding-right: 20px;
+}
+.history-logo {
+  height: 30px;
+  width: 30px;
+}
+.description {
+  font-family: roboto;
+  font-size: 13px;
+  font-weight: 500;
+  color: #64748b;
+  padding-left: 10px;
+}
+.button {
+  border: none;
+  outline: none;
+}
